@@ -99,6 +99,7 @@ Project2 is deployed and can be checked [here](https://gleeful-pithivier-39ccb4.
 Project3 is deployed and can be checked [here](https://extraordinary-maamoul-67f871.netlify.app) 
 Project4 is deployed and can be checked [here](https://sensational-bombolone-1be66f.netlify.app/) 
 
+#### Result Snapshot
 
 ![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position1/cssposition1.jpg)
 
