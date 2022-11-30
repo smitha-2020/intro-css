@@ -100,6 +100,10 @@ Project3 is deployed and can be checked [here](https://extraordinary-maamoul-67f
 Project4 is deployed and can be checked [here](https://sensational-bombolone-1be66f.netlify.app/) 
 
 
-![alt text](https://github.com/smitha-2020/fs13-basic-html/blob/main/top1.jpg)
+![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position1/cssposition1.jpg)
 
-![alt text](https://github.com/smitha-2020/fs13-basic-html/blob/main/top2.png)
+![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position2/cssposition2.jpg)
+
+![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position3/cssposition3.png)
+
+![alt text](https://github.com/smitha-2020/fs13-css-position/tree/main/css-position4)
