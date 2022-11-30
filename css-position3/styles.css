@@ -1,3 +1,27 @@
+*{
+  padding:0px;
+  margin:0px;
+}
+
 body {
   background: white;
+}
+
+nav{
+  width:100%;
+  height:auto;
+}
+
+nav a{
+  display:inline-block;
+  padding:30px;
+  margin:20px;
+  background-color: green;
+  border:2px solid lightseagreen;
+  border-radius: 5px;
+  color:white;
+  font-size: 20px;
+  font-weight:bold;
+  text-decoration: none;
+  text-transform: capitalize;
 }
