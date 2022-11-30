@@ -106,4 +106,4 @@ Project4 is deployed and can be checked [here](https://sensational-bombolone-1be
 
 ![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position3/cssposition3.png)
 
-![alt text](https://github.com/smitha-2020/fs13-css-position/tree/main/css-position4)
+![alt text](https://github.com/smitha-2020/fs13-css-position/blob/main/css-position4/cssposition4.png)
