@@ -1,28 +1,49 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+.container0{
+  display:flex;
+  flex-direction: column-reverse;
+}
 body {
   margin: 0;
   padding: 10em;
   background-color: white;
 }
-
+/* # Container Text Style
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container1 {
   background-color: black;
   padding: 3em;
+  display:flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
 }
-
-.container1 :nth-child(1) {
+.container1 div{
+  padding:1em;
+ 
+}
+.container1 div:nth-child(1) {
   background-color: rgb(136, 246, 111);
 }
 
-.container1 :nth-child(2) {
+.container1 div:nth-child(2) {
   background-color: rgb(86, 213, 60);
 }
 
-.container1 :nth-child(3) {
+.container1 div:nth-child(3) {
   background-color: rgb(42, 144, 22);
 }
-
+/* # Top Image Style
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container2 {
-  background-image: url("avatar.png");
+  background: url("avatar.png") no-repeat;
+  background-size: cover;
+  transform:translateY(20%);
   height: 10em;
-  width: 10em;
+  width: 16em;
+  margin:0 auto;
 }
