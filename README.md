@@ -23,10 +23,9 @@ Practice Flex and Grid system
 - Project Demonstrates CSS Grid Properties
 
 ###### Technology skills used:
-HTML5
-CSS3
-GIT
-WAI-ARIA attributes
+- HTML5
+- CSS3
+- GIT
 
 ##### Project structure
 C:.
