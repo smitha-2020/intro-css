@@ -95,8 +95,8 @@ Go to parent repo and make a pull request.
 
  ✨Magic ✨
 Project1 is deployed and can be checked [here](https://melodious-tanuki-0de6cd.netlify.app/) 
-Project2 is deployed and can be checked [here](https://chimerical-stroopwafel-652add.netlify.app/) 
-Project3 is deployed and can be checked [here](https://preeminent-brioche-b31fd8.netlify.app/) 
+Project2 is deployed and can be checked [here](https://gleeful-pithivier-39ccb4.netlify.app/) 
+Project3 is deployed and can be checked [here](https://extraordinary-maamoul-67f871.netlify.app) 
 Project4 is deployed and can be checked [here](https://sensational-bombolone-1be66f.netlify.app/) 
 
 

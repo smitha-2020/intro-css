@@ -15,7 +15,7 @@ body {
   margin:1em;
   display:grid;
   grid-template-columns: repeat(5,1fr);
-  grid-template-rows: repeat(2,100px);
+  grid-template-rows: repeat(2,10em);
   row-gap: 1em;
   column-gap: 1em;
 }
@@ -64,16 +64,16 @@ body {
 }
 .diamond{
   background: #fff;
-  height: 60px;
+  height: 4em;
   text-align: center;
   transform:rotate(45deg);
-	width:60px;
+	width:4em;
 }
 .diamond p {
   color: #333;
   display: table-cell;
-  height: 60px;
+  height: 4em;
   transform: rotate(-45deg);
   vertical-align: middle;
-	width:60px;
+	width:4em;
 }
