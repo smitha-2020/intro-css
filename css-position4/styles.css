@@ -20,7 +20,6 @@ body {
   column-gap: 1em;
 }
 .item{
-  background-color:lightblue;
   width:100%;
 }
 .item:nth-child(1){
@@ -49,9 +48,6 @@ body {
   display:none;
 }
 
-
-/* # Diamond Shape Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .box {
   width:100%;
   height:100%;
@@ -62,12 +58,16 @@ body {
   justify-items: center;
   align-items: center;
 }
+
+/* # Diamond Shape Styles
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
 .diamond{
   background: #fff;
   height: 4em;
   text-align: center;
   transform:rotate(45deg);
 	width:4em;
+  font-weight:bold;
 }
 .diamond p {
   color: #333;
