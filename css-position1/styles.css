@@ -8,17 +8,36 @@ body {
   padding:1em;
 }
 
-.container {
+/* solution 1 using position */
+/* vh vw em rem */
+/* .container {
   background-color: bisque;
-  height: 60em; /* vh vw em rem */
+  height: 60em; 
   width:20em;
   position:relative;
-}
+} */
 
-p{
+/* p{
   position:absolute;
   top:50%;
   width:100%;
   text-align:center;
  
+} */
+
+/* solution 2 using Flexbox */
+.container{
+  background-color: bisque;
+  height: 60em; 
+  width:20em;
+  display:flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+p{
+  top:50%;
+  width:100%;
+ text-align: center;
 }
